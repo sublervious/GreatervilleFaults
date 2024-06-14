@@ -8,7 +8,7 @@
 </Style>
 <name>Greaterville Faults</name>
 <NetworkLink>
-<name>0/0/0</name>
+<name>https://sublervious.github.io/GreatervilleFaults/0/0/0</name>
 <Region>
 <Lod>
 <minLodPixels>-1</minLodPixels>
@@ -21,7 +21,7 @@
 </LatLonAltBox>
 </Region>
 <Link>
-<href>0/0/0.kml</href>
+<href>https://sublervious.github.io/GreatervilleFaults/0/0/0.kml</href>
 <viewRefreshMode>onRegion</viewRefreshMode>
 </Link>
 </NetworkLink>
